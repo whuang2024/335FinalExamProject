@@ -5,4 +5,6 @@ For legal reasons, this is purely a joke application.
 
 API links: https://zenquotes.io/?api=random (Documentation: https://docs.zenquotes.io/zenquotes-documentation/)
 
-Youtube demo link
+Youtube demo link: https://www.youtube.com/watch?v=id_vFSXFxYA&ab_channel=WilliamHuang
+
+Render Link: https://quotestealer.onrender.com/
